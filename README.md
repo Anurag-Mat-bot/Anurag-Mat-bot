@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anurag-Mat-bot
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Data Visualisation
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
